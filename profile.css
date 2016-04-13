@@ -1,0 +1,95 @@
+
+body {
+  background-color: #c8c5bc;
+}
+
+body {
+  font-family:  "IPAex明朝 標準" sans-serif;
+  background-color: #6abaff;
+  font-size: 21px;
+}
+
+ body{
+  background-image: url("images.jpg");
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+header{
+  background-image: url("header.jpg");
+  background-position: center center;
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+
+/* ナビゲーションバーの位置を右揃え */
+nav {
+  text-align: right;
+}
+
+/* プロフィール画像の大きさ指定 */
+img.example1 {
+width:200px;
+height: 180px;
+}
+
+/* プロフィール画像の枠線 */
+img.example1 {
+  border: 5px solid #6dbbff;
+  border-radius: 5%;
+}
+
+img.Rmaker {
+  border: 5px solid #b5a7a9;
+  border-radius: 3%;
+}
+
+img.Rmaker {
+  width: 550px;
+  margin: 10px auto;
+}
+
+div.center {
+  text-align: center; 
+}
+
+div.main {
+  width: 800px;
+  margin: 10px auto;
+}
+
+div.main2 {
+  width: 640px;
+  margin: 10px auto;
+  text-align: left; 
+}
+
+/* コメント欄の位置 */
+img.Comment {
+  width: 550px;
+  margin: 10px auto;
+}
+
+
+div.promoji {
+  color: #6abaff;
+}
+
+div.itityousetu {
+  padding-left: 0px;
+}
+
+/* 本文下に敷かれたシート画像のプロパティ */
+div.main2 {
+  background-image: url("aquamusic2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  border: 5px solid#c6c3c0;
+  border-radius: 3%;
+}
+
+/* 本文の文字色 */
+div.main2 {
+color: #2e2121;
+}
